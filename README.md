@@ -1,5 +1,3 @@
-# simple_social_nestjs_ApolloGraphql
-#
 # Avid Challenge
 
 In this challenge we have to make an application like Instagram. The communication between front-end and back-end must be with GraphQL technology and using ApolloGraphQL library. We have to use nestjs as web framework.
@@ -23,7 +21,7 @@ You need to have these items on your local machine to run this application:
 - node
 - mongoClient
 
-### **Installing**
+### **Installation**
 
 We have two separate project and folder for front-end and back-end.
 
@@ -45,7 +43,7 @@ Npm run start:dev
 
 Now back-end server is up and for testing you can send a Get request to http://localhost:8000 (if you didn&#39;t change the port) you should receive &quot;Hello World&quot; response. In front-end requests are based on 8000 port so if you want to change this port you have to change some files in front-end projects.
 
-Front-end
+#### Front-end
 
 Default port for front-end is 3000.for starting the project enter these commands in your command line :
 
