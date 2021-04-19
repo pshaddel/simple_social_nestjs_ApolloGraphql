@@ -1,6 +1,6 @@
 # Avid Challenge
 
-In this challenge we have to make an application like Instagram. The communication between front-end and back-end must be with GraphQL technology and using ApolloGraphQL library. We have to use (NestJS)[https://nestjs.com/] as web framework.
+In this challenge we have to make an application like Instagram. The communication between front-end and back-end must be with GraphQL technology and using ApolloGraphQL library. We have to use [NestJS](https://nestjs.com/) as web framework.
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <symbol viewBox="0 0 12 20" id="icon-chevron-left">
