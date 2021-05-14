@@ -28,7 +28,7 @@
     "apollo-server-express": "^2.23.0",
     "graphql": "^15.5.0",
     "graphql-tools": "^7.0.4",
-    "mongoose": "^5.12.4",
+    "mongoose": "^5.12.5",
     "node-cleanup": "^2.1.2",
     "npm-check-updates": "^11.4.1",
     "reflect-metadata": "^0.1.13",
