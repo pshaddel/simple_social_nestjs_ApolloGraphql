@@ -30,7 +30,7 @@
     "graphql-tools": "^7.0.4",
     "mongoose": "^5.12.4",
     "node-cleanup": "^2.1.2",
-    "npm-check-updates": "^11.4.1",
+    "npm-check-updates": "^11.5.7",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.6.7",
